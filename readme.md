@@ -30,16 +30,13 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
-- [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
+- 1Password extension - Extends the [1Password](https://1password.com/) app. - [Chrome Webstore](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - [AgileBits Site](https://agilebits.com/onepassword/extensions).
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.
-- [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.
-- [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues).
+- Cookie AutoDelete - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want. - [Chrome Webstore](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - [GitHub](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues).
 - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
-- [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
+- Decentraleyes - Protects you against tracking through "free", centralized, content delivery. Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)). - [Chrome Webstore](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - [GitHub](https://github.com/Synzvato/decentraleyes)
 - [Pinboard Pro](https://github.com/richardkall/pinboard-pro-chrome-extension) - Google Chrome extension for Pinboard.in.
-- [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
@@ -48,15 +45,14 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
 - [Hckr news](https://chrome.google.com/webstore/detail/hckr-news/mnlaodleonmmfkdhfofamacceeikgecp) - Adds a few features to both Hacker News and Hckr news.
 - [HTTPS everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypts you communication with many major websites thus making browsing more secure.
-- [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
-- [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.
+- [KeePass Tusk] - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed. - [Chrome Webstore](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - [GitHub](https://github.com/suBDavis/Tusk)
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
 - [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
-- [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
+- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Suite of modules that enhance your Reddit browsing experience.
 - [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples).
 - [Saka](https://saka.io/) - Fuzzy search through active Chrome tabs.
